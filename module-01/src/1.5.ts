@@ -11,5 +11,5 @@ const user: {
   lastName: "Mahbub",
   isMarried: true,
 };
-const company = (user.company = "Programming Hero");
+// const company = (user.company = "Programming Hero");
 const first_Name = (user.firstName = "Mezbaul");

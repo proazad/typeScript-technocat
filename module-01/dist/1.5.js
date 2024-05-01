@@ -6,5 +6,5 @@ var user = {
     lastName: "Mahbub",
     isMarried: true,
 };
-var company = (user.company = "Programming Hero");
+// const company = (user.company = "Programming Hero");
 var first_Name = (user.firstName = "Mezbaul");
